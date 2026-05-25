@@ -108,3 +108,4 @@ export function onCacheUpdate(callback) {
     navigator.serviceWorker.removeEventListener('message', handler);
   };
 }
+
